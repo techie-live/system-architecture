@@ -1,3 +1,3 @@
-# system-architecture
+# System Architecture
 
 This project is supposed to serve as a guide for anyone who's looking to find out what goes behing designing all those billion dollar systems. Should be easy to go through if read through in sequence...
