@@ -8,6 +8,7 @@ This project is supposed to serve as a guide for anyone who's looking to find ou
 - Load balancing
 - CAP theorem
 - Consistent hashing
+- CDNs
 
 ### Databases
 
